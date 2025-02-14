@@ -13,3 +13,5 @@ UNetTST源代码仓库链接：https://github.com/lichuustc/UnetTSF
 Deformable attention源代码仓库链接：https://github.com/ClaudiaShu/DeformTime
 
 CT-MSA源代码仓库链接：https://github.com/yoshall/airformer
+
+CBAM源代码仓库链接：https://github.com/luuuyi/CBAM.PyTorch
