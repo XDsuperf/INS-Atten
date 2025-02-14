@@ -11,3 +11,5 @@ Temporal Convolution Module源代码仓库链接：https://github.com/nnzhan/MTG
 UNetTST源代码仓库链接：https://github.com/lichuustc/UnetTSF
 
 Deformable attention源代码仓库链接：https://github.com/ClaudiaShu/DeformTime
+
+CT-MSA源代码仓库链接：https://github.com/yoshall/airformer
